@@ -1,1 +1,1 @@
-alert("panda is watching...")
+console.log("chicken")
